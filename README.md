@@ -1,2 +1,2 @@
 # myfirstrepo
-authot - abdul wahid
+author - abdul wahid
